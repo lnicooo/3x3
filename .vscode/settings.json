@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "animations.h": "c",
+        "io.h": "c"
+    }
+}
